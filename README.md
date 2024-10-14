@@ -37,7 +37,7 @@ python enfriamiento_simulado.py
 ## Contributors
 This project was developed with contributions from:
 
-- [Cristopher Hernandez Romanos](https://github.com/Cdhernadnezr).
+- [Cristopher Hernandez Romanos](https://github.com/Cdhernadnezr)- Main .
 - [Deiner Cassiani Garcia]
 - [Mauricio De La Hoz Figueroa]
 - [Ruben Mejía Niebles ]
