@@ -1,6 +1,6 @@
 # Knapsack Problem Solved with Bioinspired Algorithms
 
-This project solves the 0-1 Knapsack Problem using three different bioinspired algorithms:
+This project solves the 0-1 Knapsack Problem using bioinspired algorithms, including Genetic Algorithm, Ant Colony Optimization, and Simulated Annealing. A detailed project report can be found [here](./report_knapsack_problem.pdf), which discusses the methodology, algorithmic design, and results in depth.
 - Genetic Algorithm (`algoritmo_genetico.py`)
 - Ant Colony Optimization (`colonias_de_hormigas.py`)
 - Simulated Annealing (`enfriamiento_simulado.py`)
@@ -34,6 +34,14 @@ python algoritmo_genetico.py
 python colonias_de_hormigas.py
 python enfriamiento_simulado.py
 ```
+
+## Project Report
+
+A detailed report on the implementation, methodology, and results of the algorithms used in this project is available:
+
+- [Download the Project Report](./report_knapsack_problem.pdf)
+
+
 ## Contributors
 This project was developed with contributions from:
 
